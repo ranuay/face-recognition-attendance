@@ -118,10 +118,3 @@ Beberapa peningkatan yang dapat dilakukan:
 - Notifikasi push untuk status absensi
 - Support multi-role (admin, karyawan, supervisor)
 
-## Lisensi
-
-Proyek ini belum mencantumkan lisensi resmi. Jika ingin dipublikasikan ke publik, pastikan menambahkan lisensi yang sesuai sebelum deployment.
-
-## Kontributor
-
-Silakan sesuaikan dengan nama tim atau pembuat project Anda.
